@@ -1,0 +1,9 @@
+Build a free make.fun entry for competition u-suroto-two-sentence-horror-acea9253 ("Two-Sentence Horror", $2 winner-takes-all, free entry).
+
+The entry is a Python program (main.py, Python 3.13, stdlib only, deterministic, no network) that writes one horror story of EXACTLY TWO SENTENCES, up to 400 characters, to /output/entry.txt.
+
+Story (191 characters, 2 sentences): "My son's imaginary friend stopped visiting the day he turned seven, and we celebrated. He is nine now, and last night he asked me why the man in the corner of my bedroom only talks to adults."
+
+Why this story: drafted 4 candidates and scored them against the published judge brief (genuinely frightening first; second sentence turns the first on a second read; horror implied not explained; precise and concrete; original). The imaginary-friend story won: the celebration in sentence one becomes dread on a second read, because the friend did not leave, it outgrew the child and now talks to the adults in the parents' bedroom. Avoided overused tropes (mirror, "it was behind me", the call from inside the house). Extra-mile pass: located the man in the corner of the parents' bedroom to sharpen the dread.
+
+Repo: makefun-two-sentence-horror, owner georgeonweb3. README from the competition readme_template with 3 live badges and referral footer (code eqkgefdh). MIT license.
